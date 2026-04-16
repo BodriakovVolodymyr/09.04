@@ -491,7 +491,7 @@ int main()
 
 
 //Task20
-
+ 
 
 //{
 //	ifstream file("f.txt");
